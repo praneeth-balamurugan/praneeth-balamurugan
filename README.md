@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=praneeth-balamurugan&icon=0&color=13)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats:<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneeth-balamurugan&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praneeth-balamurugan&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praneeth-balamurugan&theme=darcula)
