@@ -44,6 +44,7 @@
 ---
 <p align="center">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oqojvp6prp25quuxtjsvvmkxqq&unique={true|1|on|yes})
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oqojvp6prp25quuxtjsvvmkxqq&unique={true|1|on|yes}) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
 </p>
