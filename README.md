@@ -42,6 +42,8 @@
 
 
 ---
+<p align="center">
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oqojvp6prp25quuxtjsvvmkxqq&unique={true|1|on|yes})
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/31oqojvp6prp25quuxtjsvvmkxqq))
+</p>
