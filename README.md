@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/49935b8f-d271-4b93-a931-3f9ace1fe328/project/28a635bf-29b3-4ee4-81f0-2cb38c5edd8d.svg)](https://wakatime.com/badge/user/49935b8f-d271-4b93-a931-3f9ace1fe328/project/28a635bf-29b3-4ee4-81f0-2cb38c5edd8d)
+[![wakatime](https://wakatime.com/badge/user/49935b8f-d271-4b93-a931-3f9ace1fe328/project/125c3919-1053-4d11-8df0-06b64c95a87e.svg)](https://wakatime.com/badge/user/49935b8f-d271-4b93-a931-3f9ace1fe328/project/125c3919-1053-4d11-8df0-06b64c95a87e)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Praneeth) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_praneeth_) 
